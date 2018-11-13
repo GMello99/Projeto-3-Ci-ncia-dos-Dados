@@ -1,4 +1,4 @@
-Projeto 3 de Ciência dos Dados
+**Projeto 3 de Ciência dos Dados**
 
 Este trabalho se resume em uma análise de dados com o intuito 
 de prever analiticamente se uma lei será ou não aprovada no Brasil 
