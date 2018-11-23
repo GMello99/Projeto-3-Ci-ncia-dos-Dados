@@ -7,7 +7,9 @@ tamanho da bancada na época analisada e o tipo de lei que será aprovada,
 usando técnicas de machine learning.
 
 Esse projeto apresenta um dicionário de dados, para casos de dúvidas, que poderá ser consultado em Excel.
+
 O relatório encontra-se no PDF com o mesmo nome, mostrando o passo a passo do grupo e as conclusões tomadas. 
+
 Há ainda uma avaliação feita conjuntamente para todos os integrantes, vendo a contribuição de cada um deles, no PDF chamado 
 "Contribuições".
 
